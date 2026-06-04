@@ -1,0 +1,106 @@
+Séance 07 - Identité de marque
+Langue détectée: fr
+
+[00:00:01 - 00:00:08] et bonjour à tous on attaque maintenant la séance numéro 7 donc on va parler de design donc là on va créer une autre
+[00:00:08 - 00:00:12] loco du coup soit pour notre profil freelance soit pour notre
+[00:00:12 - 00:00:15] agence donc on va faire tout ça grâce à nano banana
+[00:00:16 - 00:00:24] normalement après la séance 6 ton QG d'organisation inventée donc on a fait une longue séance sur cohort donc normalement ça devrait ressembler à ça
+[00:00:24 - 00:00:26] et ensuite
+[00:00:26 - 00:00:37] Tu devrais, du coup, avoir les 10 sous-dossiers, donc le brain, l'étude de marché, prospects, seed, blocs, tunnel, including, off, client, veille, co-work,
+[00:00:37 - 00:00:47] quoi, tous les remplir un par un au fur et à mesure de la formation pour qu'à la fin des 90 jours, tout soit rempli de manière stratégique.
+[00:00:47 - 00:00:56] Donc, à la fin de cette séance-là, on aura un logo et un mini brainbook, donc avec ton nom, ta couleur, le chemin de ton logo, etc.
+[00:00:56 - 00:01:01] c'était un. Donc voilà, avant de commencer il va falloir tomber que j'ai d'organisation faite,
+[00:01:01 - 00:01:07] un compte Google pour Gemini et un navigateur et 15 minutes devant toi. Donc ça va être vraiment
+[00:01:07 - 00:01:12] très simple, ça ne va être pas très compliqué, on va utiliser ce logo de toute manière pour le site
+[00:01:12 - 00:01:19] internet qu'on va construire par la suite. Donc voilà, en gros notre 00 Brand va ressembler à ça.
+[00:01:19 - 00:01:24] Encore une fois, c'est un module que je vous explique assez rapidement parce que c'est très
+[00:01:24 - 00:01:28] complexe de vous donner des explications supplémentaires sur la partie design,
+[00:01:28 - 00:01:33] parce que c'est vraiment propre à chacun, propre à l'idée qu'on souhaite mettre en place, etc.
+[00:01:33 - 00:01:37] Là je vais vous montrer rapidement comment on peut créer un logo, ensuite ça sera vous
+[00:01:37 - 00:01:43] d'affiner justement la stratégie par rapport à ça. Donc les trois infos à se noter avant de se
+[00:01:43 - 00:01:48] lancer dans Jimmy Nye, vient de falloir du coup ton nom marque ta couleur principale est en
+[00:01:48 - 00:01:56] style. Donc encore une fois, on va pas se prendre la tête du coup pour choisir ton monde marque. Si
+[00:01:56 - 00:02:05] t'as un finance appuie pas mal, par exemple batist-consulking.com ou sarah-studio.com,
+[00:02:05 - 00:02:10] d'enem, fisserie pour une agence, enfin tout dépend. Et ensuite tu vas choisir ta couleur
+[00:02:10 - 00:02:17] principale, donc une palette de design. On verra ça aussi sur la création du site internet,
+[00:02:17 - 00:02:24] pas d'inquiétude. L'objectif c'est à vous en fait de créer vraiment cette partie-là donc ce dossier
+[00:02:24 - 00:02:29] 00Brain pour que ça ressemble à votre idée. Le design je peux pas vous épauler parce que tout
+[00:02:29 - 00:02:35] simplement c'est trop subjetif. Donc voilà maintenant on va passer à Gemini. Donc nano
+[00:02:35 - 00:02:43] bananas, le nom de code, le délidimage de Google. Donc Gemini 2.5 Flash. Donc il est gratuit et
+[00:02:43 - 00:02:46] accessible dans l'individuateur, au cul d'installation et d'essayer notre logo.
+[00:02:46 - 00:02:54] Donc on va aller sur Gemini, tout simplement, hop, Gemini. Donc là, comme on peut voir,
+[00:02:54 - 00:02:57] je suis connecté automatiquement à mon compte. Qu'est-ce que je vais faire ?
+[00:02:57 - 00:03:00] Je vais faire une nouvelle conversation et je vais cliquer.
+[00:03:00 - 00:03:07] tout simplement sur la partie outil juste ici et je vais aller mettre mon curseur de souris sur
+[00:03:07 - 00:03:12] créer une image. Donc une fois que c'est fait, je vais récupérer mon prompt en français. Donc
+[00:03:12 - 00:03:19] c'est un prompt généraliste encore une fois. L'objectif c'est d'avoir une V1 pour enrichir
+[00:03:19 - 00:03:24] un mode dossier. Donc créer un logo professionnel pour ma marque. Donc trouve un nom de marque.
+[00:03:24 - 00:03:34] moi je veux monter une agence, une agence IA pour tout ce qui est restauration, comment je
+[00:03:34 - 00:03:43] pourrais l'appeler, comment je pourrais l'appeler, c'est ça qui est très complexe, pour ça que cette
+[00:03:43 - 00:03:47] séance là j'ai pas envie de la faire trop longue, en le sens où c'est vraiment à vouloir
+[00:03:47 - 00:03:55] réfléchir, on va pas laisser le liable complètement tout créer, par exemple je sais
+[00:03:55 - 00:04:01] comment je pourrais l'appeler, je pourrais l'appeler le reste, donc il y a peste ou quelque chose ou les
+[00:04:01 - 00:04:11] restes à manger, il y a je trouve que ça du sens, donc le style qu'est ce que tu veux,
+[00:04:11 - 00:04:19] c'est que tu veux que ce soit minimal, tech, moi je veux que ce soit minimal, type de logo,
+[00:04:19 - 00:04:40] Alors qu'il y a ta couleur principale, donc quelle couleur t'as choisie. Je mette juste ici palettes couleur, je sais que c'est top pour récupérer toutes les palettes.
+[00:04:40 - 00:04:46] Qu'est ce que je pourrais choisir qui pourrait passer. J'aime bien ça.
+[00:04:46 - 00:05:04] jaune, top, donc couleur fond blanc, typographie sans cérif moderne et graisse
+[00:05:04 - 00:05:07] médium bold, donc vous pouvez échanger la police d'écriture, donc la typographie,
+[00:05:07 - 00:05:13] ensuite la composition centrée, espace blanc, j'ai eu un reforme à carrer, contrats,
+[00:05:13 - 00:05:16] mais non pas de domes, pas de dégradés, pas de clipards, j'ai l'air que j'ai
+[00:05:16 - 00:05:21] une version propre à bouquilles, donc là je vais envoyer mon pronte et on va
+[00:05:21 - 00:05:27] attendre justement que nous génère le premier logo avec du coup le nom de mon
+[00:05:27 - 00:05:43] j'ai bien donné la couleur principale, encore une fois j'ai la version gratuite,
+[00:05:43 - 00:05:47] qu'il n'y a pas de problème pour tout ce qui est génération, vous n'avez pas payé,
+[00:05:47 - 00:05:53] ça va être top pour ça, le objectif c'est que vous prenez un peu de temps aussi pour ne pas
+[00:05:53 - 00:05:57] réfléchir surtout que si vous montez une agence, ce que le positionnement fait tout,
+[00:05:57 - 00:06:00] que, non positionnement, il y a aussi l'aspect vis
+[00:06:00 - 00:06:04] si vous êtes un freelance encore une fois c'est différent pourquoi parce que
+[00:06:04 - 00:06:12] bah le design compte un peu moins vu que bah c'est vraiment vous en talk personnes
+[00:06:12 - 00:06:17] physiquement etc que vous allez montrer donc c'est pas la même chose
+[00:06:17 - 00:06:52] hop, allez c'est chargé, allez, ok donc là c'est bon, il fait tout le brif, il va me sortir le logo
+[00:06:52 - 00:07:04] pas mal, pas mal, pas mal, pas mal, moi j'ai bair donc il a bair pris la police d'écriture
+[00:07:04 - 00:07:22] j'aime bien. J'aime même le logo quand même. Encore une fois, si il y en a qui vont bien
+[00:07:22 - 00:07:28] aimer, il y en a d'autres non, c'est pour ça que ça c'est conflux. C'est propre à chacun. Moi j'aime bien,
+[00:07:28 - 00:07:39] je vais rester sur ça je pense. En vrai j'aime bien. Peut-être ajouter un peu de verre. Donc en gros,
+[00:07:39 - 00:07:44] vous pouvez ensuite évaluer le logo. Si ça vous plaît, vous gardez comme là ce que je vais
+[00:07:44 - 00:07:52] faire je pense, vous pouvez y terrer donc demander du coup des modifications supplémentaires. Donc par
+[00:07:52 - 00:08:06] exemple changer le symbole, changer la couleur. Donc là si je change la couleur, hop, si, nouvel
+[00:08:06 - 00:08:13] couleur. Donc j'aimerais bien l'y tapis sur du verre, à l'aide de couleur. On va lui donner du
+[00:08:13 - 00:08:18] jaune et du verre, ça a eu bien ça. On va reprendre le site, ouais c'était là qui est elle pour
+[00:08:18 - 00:08:32] on avait utilisé c'était celle-ci je pense, on va récupérer ça, tu as un peu d'altenir donc c'est
+[00:08:32 - 00:08:52] complexe, c'est pour ça. Donc voilà, ensuite après une fois qu'on aura trouvé notre bon go,
+[00:08:52 - 00:08:56] on va tout simplement le registrer, simplement.
+[00:09:02 - 00:09:16] On va attendre, on va prendre un petit peu de temps, prendre l'effet chier, j'espère juste qu'il n'y aura pas cassé du coup le premier logo, donc la V1, c'est que j'avais bien du coup le petit R, je trouvais ça cool.
+[00:09:16 - 00:10:00] Attendant, on va faire comme ça, comme la séance de vent ça va être plus simple pour vous, on va mieux suivre, il faut que ça revend vite, on va être comme ça, top.
+[00:10:00 - 00:10:05] après tout simplement une fois que notre logo va nous convaincre, on va aller en Gemini,
+[00:10:05 - 00:10:09] on va faire un clic proie enregistrer une machout. Le problème c'est que derrière,
+[00:10:09 - 00:10:14] comme vous pouvez voir, si je fais ça, on a l'agé de la chance parce qu'on a un fond blanc,
+[00:10:14 - 00:10:18] du coup ça cache le logo en question. Du coup de Gemini met normalement ici,
+[00:10:18 - 00:10:23] on a un petit logo pour reconnaître que c'est bien un de nos bananas qui nous a fait ça.
+[00:10:23 - 00:10:30] Je crois que ça a bugué, j'ai coupé le prône. Ouais, j'ai coupé le prône donc je vais le relancer.
+[00:10:30 - 00:10:41] et normalement on a le petit logo en question, on va juste le relancer, mais en gros on va
+[00:10:41 - 00:10:46] enregistrer et après on va le mettre du coup dans notre dossier au niveau de 0-0-end et on va
+[00:10:46 - 00:10:58] l'enregistrer tout simplement. On pourrait aussi très bien justement, ça peut être intéressant de
+[00:10:58 - 00:11:02] voir parce que j'ai vu que chat j'ai pété, comment ça va être plutôt pas mauvais sur cette
+[00:11:02 - 00:11:10] partie là, donc si je vais sur chat j'ai pété, dans le nouveau chat, je colle le même
+[00:11:10 - 00:11:20] prendre que j'ai envoyé à d'une mineille. Clévan crée l'image, bon justement à faire
+[00:11:20 - 00:11:34] la différence. J'en sortirai bientôt un nouveau modèle, donc 2.0, ce qui parait
+[00:11:34 - 00:11:39] très puissant, que ça va pas tarder à arriver. Peut-être que quand vous allez
+[00:11:39 - 00:11:47] regarder cette formation, il sera sorti et que le JCPT sera meilleur. C'est pas mal
+[00:11:47 - 00:11:54] aussi, hein ? Ah c'est pas mal aussi, car c'est peut-être mieux. J'aimais bien le R
+[00:11:54 - 00:12:00] tout à l'heure mais là il y a la fourchette. On va lui donner aussi.
+[00:12:00 - 00:12:09] l'eau pronte avec le verre pour pas que ce soit tout blanc. En tout cas, il est plus rapide,
+[00:12:09 - 00:12:20] c'est top. Il est sympa lui aussi. C'est très compliqué sans encore une fois,
+[00:12:20 - 00:12:24] c'est pour ça que ça vaut vraiment de décider ce que vous préférez.
+[00:12:24 - 00:12:38] A voir ce qu'on nous fait, on va sélectionner après on va voir. Il nous a fait sauter le blanc.
+[00:12:38 - 00:12:46] Ah mais si je mets ça en favicone, donc juste ici ça plaît pas mal aussi.
+[00:12:46 - 00:12:56] quand je vais partir sur celui là je vais partir sur celui là par contre comme vous pouvez voir
+[00:12:56 - 00:13:01] quand une fois la génération d'image en y a c'est pas le plus simple là il n'a pas gardé du coup
+[00:13:01 - 00:13:05] le jaune mais bon il a de la chance parce que je préfère en vert comme ça ça fait un peu le côté
+[00:13:05 - 00:13:18] environnement etc donc j'aime bien je vais partir sur ça encore une fois c'est un exemple vous
+[00:13:18 - 00:13:29] vous allez faire enregistrer l'image choux, bureau, valer dans mon business, 00brand et enregistrer.
+[00:13:29 - 00:13:34] Donc là on enregistrer au niveau de cette partie-là et on va tout simplement déjà
+[00:13:34 - 00:13:46] d'une part le renommer pour que ce soit plus simple. Mon business 00brand, logo, agence,
+[00:13:46 - 00:13:54] FESTE
+[00:13:54 - 00:13:56] YAA
