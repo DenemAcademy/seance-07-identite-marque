@@ -125,8 +125,8 @@ body {
   }
 }
 </style>
-<!-- DENEM three-color act theme -->
-<style id="denem-three-color-act-theme">
+<!-- DENEM support visual theme -->
+<style id="denem-support-visual-theme">
 :root {
   color-scheme: light;
   --denem-white: #FFFFFF;
@@ -601,25 +601,101 @@ hr {
 }
 </style>
 
+
+<style id="denem-student-header-cleanup">
+.denem-act-ribbon {
+  padding: 28px 18px !important;
+  background: #ffffff !important;
+}
+.denem-act-ribbon__inner {
+  max-width: 1320px !important;
+  margin: 0 auto !important;
+}
+.denem-act-ribbon__topline {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 10px;
+  margin-bottom: 16px;
+}
+.denem-act-ribbon__session {
+  display: inline-flex;
+  align-items: center;
+  border: 2px solid #0f172a;
+  background: #ffffff;
+  color: #0f172a;
+  padding: 8px 12px;
+  font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace;
+  font-size: 12px;
+  font-weight: 900;
+  text-transform: uppercase;
+  box-shadow: 4px 4px 0 var(--denem-act-color, var(--denem-act, #6d3df2));
+}
+.denem-act-ribbon h2 {
+  max-width: 1040px;
+  margin: 0 0 12px !important;
+  color: #0f172a !important;
+  font-size: clamp(34px, 5vw, 68px) !important;
+  line-height: .98 !important;
+  letter-spacing: 0 !important;
+}
+.denem-act-ribbon p {
+  max-width: 960px !important;
+  margin: 0 !important;
+  color: #334155 !important;
+  font-size: 18px !important;
+  line-height: 1.6 !important;
+}
+.denem-act-ribbon__chips {
+  gap: 10px !important;
+  margin-top: 18px !important;
+}
+.denem-act-ribbon__chips span {
+  border: 2px solid #0f172a !important;
+  background: #ffffff !important;
+  color: #0f172a !important;
+  padding: 10px 12px !important;
+  font-weight: 850 !important;
+  line-height: 1.25 !important;
+  box-shadow: 3px 3px 0 var(--denem-act-color, var(--denem-act, #6d3df2));
+}
+@media (max-width: 700px) {
+  .denem-act-ribbon {
+    padding: 22px 14px !important;
+  }
+  .denem-act-ribbon h2 {
+    font-size: clamp(30px, 11vw, 44px) !important;
+  }
+  .denem-act-ribbon p {
+    font-size: 16px !important;
+  }
+  .denem-act-ribbon__chips {
+    display: grid !important;
+    grid-template-columns: 1fr !important;
+  }
+}
+</style>
+
 </head>
 <body>
 
-<section class="denem-act-ribbon" aria-label="Acte stratégique">
+<section class="denem-act-ribbon" aria-label="En-tête du support de cours">
   <div class="denem-act-ribbon__inner">
-    <span class="denem-act-ribbon__kicker">Acte 2 · Séances 4-7</span>
-    <h2>Créer le business : cowork, marché, marque</h2>
-    
-    <div class="denem-act-ribbon__chips">
-      <span>Fond blanc</span>
-      <span>Orange stratégie</span>
-      <span>#EA580C</span>
+    <div class="denem-act-ribbon__topline">
+      <span class="denem-act-ribbon__kicker">Acte 2 · Séances 4-7</span>
+      <span class="denem-act-ribbon__session">Séance 07</span>
+    </div>
+    <h2>Identité de marque</h2>
+    <p>Un repère simple pour savoir où tu es, quoi faire et comment retrouver les étapes importantes.</p>
+    <div class="denem-act-ribbon__chips" aria-label="Repères utiles du support">
+      <span>Parcours · Créer le business : cowork, marché, marque</span>
+      <span>À faire · Suivre la séance puis refaire seul</span>
+      <span>Navigation · Boutons 01, 02, 03... pour retrouver une étape</span>
     </div>
   </div>
 </section>
 
-
-
-  <div class="progress" id="progress"></div>
+<div class="progress" id="progress"></div>
   <header class="topbar">
     <div class="top-inner">
       <a class="brand" href="#top"><img src="logo-denem.jpeg" alt="Logo DENEM Academy"><span>DENEM Academy<small>Séance 07 - Identité de marque</small></span></a>
@@ -687,7 +763,7 @@ Style : minimal, vectoriel plat, lignes nettes, pas de 3D, pas de photo.
 
 Type de logo : icône + texte.
 Couleur principale : [COULEUR_PRINCIPALE] ou [CODE_HEX].
-Fond blanc.
+Fond simple.
 Typographie sans serif moderne, graisse medium-bold.
 Composition centrée, espace blanc.
 Format carré.
@@ -709,7 +785,7 @@ Style : minimal, vectoriel plat, lignes nettes, pas de 3D, pas de photo.
 
 Type de logo : icône + texte.
 Couleur principale : jaune vif.
-Fond blanc.
+Fond simple.
 Typographie sans serif moderne, graisse medium-bold.
 Composition centrée, espace blanc.
 Format carré.
@@ -748,7 +824,7 @@ Je veux :
 Ne change pas le nom de marque.
 Ne génère qu&#x27;une seule version.</code></pre></div></div></section>
 <section id="section-31" class="lesson tone-white"><div class="wrap split"><article class="copy reveal"><div class="meta"><span class="num">31</span><span>Gemini</span><span>compare</span></div><h2>Je modifie sans casser la V1</h2><p>La consigne doit dire ce que je garde et ce que je change. Sinon l&#x27;outil peut supprimer le symbole intéressant ou repartir dans une autre direction.</p></article><div class="table-wrap reveal"><table><thead><tr><th>Je garde</th><th>Je change</th><th>Pourquoi</th></tr></thead><tbody><tr><td>Nom RestIA</td><td>palette jaune + vert</td><td>cohérence de marque</td></tr><tr><td>style minimal</td><td>répartition de couleur</td><td>ne pas repartir de zéro</td></tr><tr><td>fond blanc</td><td>accent visuel</td><td>usage web plus simple</td></tr></tbody></table></div></div></section>
-<section id="section-32" class="lesson tone-ice"><div class="wrap split"><article class="copy reveal"><div class="meta"><span class="num">32</span><span>Gemini</span><span>diagnostic</span></div><h2>Je surveille le filigrane et le fond</h2><p>Certains outils ajoutent une marque ou un indicateur de génération. Avec un fond blanc, elle peut être moins visible, mais je dois vérifier avant d&#x27;utiliser le fichier.</p></article><div class="diagnostic reveal"><b>Diagnostic rapide</b><ul class="check-list reveal"><li><span>01</span><p>Pas de watermark visible sur le logo.</p></li><li><span>02</span><p>Fond blanc propre.</p></li><li><span>03</span><p>Logo non coupé.</p></li><li><span>04</span><p>Aucune interface capturée dans l&#x27;image finale.</p></li></ul></div></div></section>
+<section id="section-32" class="lesson tone-ice"><div class="wrap split"><article class="copy reveal"><div class="meta"><span class="num">32</span><span>Gemini</span><span>diagnostic</span></div><h2>Je surveille le filigrane et le fond</h2><p>Certains outils ajoutent une marque ou un indicateur de génération. Avec un fond simple, elle peut être moins visible, mais je dois vérifier avant d&#x27;utiliser le fichier.</p></article><div class="diagnostic reveal"><b>Diagnostic rapide</b><ul class="check-list reveal"><li><span>01</span><p>Pas de watermark visible sur le logo.</p></li><li><span>02</span><p>Fond propre.</p></li><li><span>03</span><p>Logo non coupé.</p></li><li><span>04</span><p>Aucune interface capturée dans l&#x27;image finale.</p></li></ul></div></div></section>
 <section id="section-33" class="lesson tone-soft"><div class="wrap stack"><article class="copy reveal"><div class="meta"><span class="num">33</span><span>Gemini</span><span>imagewide</span></div><h2>La piste Gemini devient une référence</h2><p>Même si je ne garde pas cette version finale, elle sert de comparaison. Elle m&#x27;aide à dire ce que j&#x27;aime : le R, la simplicité, le côté restaurant.</p></article><figure class="shot reveal"><img src="img/session-07/05-gemini-logo-restia.jpg" alt="La version Gemini donne un point de départ concret pour comparer." loading="lazy"><figcaption>La version Gemini donne un point de départ concret pour comparer.</figcaption></figure></div></section>
 <section id="section-34" class="lesson tone-signal"><div class="wrap stack"><article class="copy reveal"><div class="meta"><span class="num">34</span><span>Gemini</span><span>cards</span></div><h2>Je ne décide pas trop tôt</h2><p>Avant de sauvegarder définitivement, je teste aussi ChatGPT. Le but est de comparer deux sorties avec le même brief.</p><div class="card-grid reveal"><article><b>Même prompt</b><p>La comparaison reste juste.</p></article><article><b>Même marque</b><p>RestIA ne change pas.</p></article><article><b>Même critère</b><p>Lisibilité, symbole, couleur.</p></article></div></article></div></section>
 <section id="section-35" class="lesson tone-dark"><div class="wrap quote-layout"><blockquote class="reveal">Le modèle peut changer. La méthode de brief et de contrôle doit rester solide.</blockquote><article class="copy reveal"><div class="meta"><span class="num">35</span><span>GPT Image</span><span>quote</span></div><h2>Je donne un vrai focus à ChatGPT / GPT Image</h2><p>Je teste ChatGPT parce que la génération d&#x27;image progresse vite. La bonne méthode reste stable : même prompt, mêmes contraintes, même diagnostic.</p></article></div></section>
@@ -1021,19 +1097,8 @@ document.querySelectorAll('.copy-btn').forEach(btn=>{
     </ul>
   </div>
 </section>
-<script id="denem-three-color-act-theme-script">
+<script id="denem-support-script">
 (function () {
-  const header = document.querySelector('header');
-  if (header) {
-    const colorPattern = /(Cette page appartient|couleur dominante|Fond blanc|Vert Supabase|Bleu LinkedIn|#[0-9A-Fa-f]{6})/;
-    header.querySelectorAll('p, span, div, li').forEach((el) => {
-      const text = (el.textContent || '').replace(/\s+/g, ' ').trim();
-      if (text.length > 0 && text.length < 240 && colorPattern.test(text)) {
-        el.remove();
-      }
-    });
-  }
-
   document.querySelectorAll('.reveal').forEach((el) => {
     el.classList.add('visible', 'is-visible');
   });
